@@ -68,11 +68,6 @@ thead {
     background-color: #444;
     color: white;
 }
-header {
-    max-width: 960px;
-    margin: 20px auto;
-    padding: 10px;
-}
 footer {
     text-align: center;
     font-style: italic;
@@ -89,4 +84,9 @@ footer {
 
 footer p {
     margin: 10px 0;
+}
+header {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 10px;
 }
